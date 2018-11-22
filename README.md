@@ -206,3 +206,11 @@ If you don’t wish to send usage data to Microsoft, please follow the instructi
 ## Known Issues
 
 * A complete [list of known issues](https://github.com/Microsoft/vscode-cordova/issues?q=is%3Aissue+label%3Aknown-issue+) can be found on [GitHub](https://github.com/Microsoft/vscode-cordova)
+
+### Big Thanks
+
+Cross-browser Testing Platform and Open Source <3 Provided by [Sauce Labs][homepage]
+
+![Sauce Labs logo](images/sauce-labs-logo.png)
+
+[homepage]: https://saucelabs.com
